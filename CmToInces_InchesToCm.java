@@ -23,3 +23,5 @@ public class CmToInces_InchesToCm{
       
     }
 }
+// This program converts centimeters to inches and vice versa based on user input.
+// It uses a simple menu system to allow the user to choose the conversion type.
